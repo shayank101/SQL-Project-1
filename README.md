@@ -26,5 +26,24 @@ step 2 :
 2. Set up the database using the SQL schema provided.
 3. Run the queries from the `queries.sql` file to explore both standard and optimized solutions.
 
+
+Here’s a simplified version of Jose Portilla’s problem-solving steps:
+
+1. **Understand the Problem**: Carefully read the question, define the inputs and outputs, and note any constraints.
+
+2. **Plan the Solution**: Outline a step-by-step plan, breaking it into smaller parts or functions.
+
+3. **Write a Basic Solution**: Start with a straightforward solution to confirm the logic, even if it’s not optimized.
+
+4. **Optimize**: Refine the code for efficiency by reducing unnecessary steps and using appropriate data structures.
+
+5. **Test with Examples**: Run sample inputs, including edge cases, to check for correctness.
+
+6. **Review and Comment**: Add comments for clarity and do a final check for readability.
+
+This approach keeps you organized and progressively improves the solution.
+
 ## Acknowledgments
 Special thanks to **Rishabh Mishra** for providing an excellent foundation for this project through his SQL tutorial series.
+
+
