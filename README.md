@@ -46,4 +46,6 @@ This approach keeps you organized and progressively improves the solution.
 ## Acknowledgments
 Special thanks to **Rishabh Mishra** for providing an excellent foundation for this project through his SQL tutorial series.
 
+Do refer the video for any help or tips : https://www.youtube.com/watch?v=VFIuIjswMKM&t=1524s
+
 
